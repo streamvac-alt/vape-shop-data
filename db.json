@@ -1,3 +1,12 @@
 {
-  "products": []
+  "products": [
+    {
+      "name": "Hotspot Лесные ягоды",
+      "price": 15,
+      "stock": 5,
+      "image": "https://zhizha.by/wp-content/uploads/2023/06/hotspot-dont-chew-it-zhvachka-myatnyj-vinograd-30-ml-20-mg-ul.jpeg.webp",
+      "category": "liquids",
+      "brand": "Hotspot"
+    }
+  ]
 }

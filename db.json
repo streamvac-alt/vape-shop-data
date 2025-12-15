@@ -1,3 +1,12 @@
 {
-  "products": []
+  "products": [
+    {
+      "name": "ffff",
+      "price": 12,
+      "stock": 32,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE4cocwovfg8BUaab2HjJsSqxi5aew8LCsxFcKRA1o8BBLyFKJPFdzt0VL1wS1ND41ZdkdwSeAqt_u0MKZjbluloqEzXbH6Zf6qtd9PZg&s=10",
+      "category": "liquids",
+      "brand": "ggg"
+    }
+  ]
 }
